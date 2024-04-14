@@ -2,7 +2,15 @@
 
 # This is Engr. Okafor.
 
+I hold Bachelor of Engineering(Electrical/Electronic)--Nnamdi Azikiwe University,Awka,Nigeria
+
+I hold Masters in Engineering(Electronic/Telecommunication)--University of Benin,Nigeria
+
+A PhD Student--Enugu State University Of Science And Technology--Enugu Nigeria
+
 I am an Electrical Engineer/Python Programmer/Data Analyst
+
+A member Council for Regulation Of Engineering in Nigeria,Anambra State Technical Committee
 
 I love to clean, transform, model and analyze data for business insights.
 
