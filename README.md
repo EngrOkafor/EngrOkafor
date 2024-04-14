@@ -18,3 +18,5 @@ I’m currently learning new Data Analytics Tools to improve my Data Analytics a
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/chukwujekwu-okafor-mnse-r-engr-88019a299/)
 
+You can reach me by mail on c4okafor4@gmail.com
+
