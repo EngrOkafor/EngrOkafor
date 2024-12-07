@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # This is Engr. Okafor.
-### I am a Data Analyst/Electrical/Electronic Engineer
+### Network/Cybersecurity Analyst/Data Analyst
 
 - I hold Bachelor of Engineering(Electrical/Electronic)--Nnamdi Azikiwe University,Awka,Nigeria
 
@@ -9,7 +9,6 @@
 
 - A PhD Student--Enugu State University Of Science And Technology--Enugu Nigeria
 
-- I am an Electrical Engineer/Python Programmer/Data Analyst
 
 - A member Council for Regulation Of Engineering in Nigeria,Anambra State Technical Committee
 
